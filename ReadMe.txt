@@ -1,8 +1,8 @@
 Code for my some papers and also for my master's thesis whose name is "The Research on Discrimination Constraint based Collaborative Representation for Classification".
 
--- Including Discriminative Collaborative Neighbor Representation for Classification.
-                   Weighted Discriminative Collaborative Competitive Representation for Classification.
-                   Discriminative Multi-Dictionary Learning for Classification.
+-- Including： Discriminative Collaborative Neighbor Representation for Classification.
+               Weighted Discriminative Collaborative Competitive Representation for Classification.
+               Discriminative Multi-Dictionary Learning for Classification.
 
 
 --written by Lei Wang (zuiran@outlook.com).
