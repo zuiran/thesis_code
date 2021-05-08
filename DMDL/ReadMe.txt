@@ -1,4 +1,4 @@
-A code implement for Discriminative Multi-Dictionary Learning.
+A code implementation for Discriminative Multi-Dictionary Learning.
 
 
 For more details, please contact me by zuiran@outlook.com .
